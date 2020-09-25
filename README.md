@@ -43,5 +43,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/DcNA3Zq' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DcNA3Zq"  ><a href="//imgur.com/a/DcNA3Zq">Twitter Clone Pt.2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
