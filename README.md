@@ -42,5 +42,4 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/DcNA3Zq"  ><a href="//imgur.com/a/DcNA3Zq">Twitter Clone Pt.2</a></blockquote>
+<img src='https://imgur.com/a/DcNA3Zq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
