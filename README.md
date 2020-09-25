@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
